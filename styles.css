@@ -117,3 +117,24 @@ a {
     color: var(--white-text-color);
 }
 
+.quote {
+    text-align: center;
+    background-color: #E5E7EB;
+    height: 300px;
+}
+
+#main-quote {
+    color: var(--main-color);
+    font-size: 36px;
+    font-style: italic;
+    padding: 100px 250px 30px 250px; 
+}
+
+#quote-author{
+    color: var(--main-color);
+    font-weight: bold;
+    font-size: 24px;
+    width: 850px;
+    text-align: right;
+    margin: 0 auto;
+}
