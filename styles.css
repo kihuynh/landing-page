@@ -1,6 +1,7 @@
 
 :root {
     --white-text-color: #F9FAF8;
+    --main-color: #1F2937;
 }
 
 * {
@@ -14,7 +15,7 @@ body{
 }
 
 .header-container {
-    background-color: #1F2937;
+    background-color: var(--main-color);
 }
 
 #header {
@@ -64,7 +65,7 @@ nav {
 button {
     background-color: #3882F6;
     font-weight: bold;
-    color: #F9FAF8;
+    color: var(--white-text-color);
     padding: 10px 20px;
     border-radius: 10px;
     border: none;
@@ -85,7 +86,7 @@ button:hover {
     text-align: center;
     font-size: 36px;
     font-weight: bold;
-    color: #1F2937;
+    color: var(--main-color);
     padding: 3rem;
 }
 
@@ -93,7 +94,7 @@ button:hover {
     display: flex;
     justify-content: center;
     gap: 4rem;
-    padding: 2rem 0;
+    padding: 2rem 0 7rem 0;
 }
 
 .info-box p {
@@ -102,7 +103,12 @@ button:hover {
 
 .drink-img {
     width: 225px;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
 
+.drink-img:hover {
+    opacity: 75%;
 }
 
 a {
