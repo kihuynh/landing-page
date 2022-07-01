@@ -81,13 +81,33 @@ button:hover {
     border-radius: 15px;
 }
 
+#info-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    padding: 3rem;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    padding: 2rem 0;
+}
+
+.info-box p {
+    text-align: center;
+}
+
+.drink-img {
+    width: 225px;
+
+}
+
 a {
     text-decoration: none;
     font-size: 18px;
     color: var(--white-text-color);
 }
 
-
-.drink-img {
-    width: 225px;
-}
