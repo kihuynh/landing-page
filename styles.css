@@ -183,6 +183,13 @@ a {
 }
 
 footer {
-    height: 3rem;
+    height: 5rem;
     background-color: var(--main-color);
+    color: var(--white-text-color);
+    text-align: center;
+    padding: 2rem 0;
+}
+
+#foot-bold {
+    font-weight: bold;
 }
