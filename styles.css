@@ -44,7 +44,7 @@ nav {
     display:flex;
     width: 950px;
     margin: auto;
-    padding: 150px 0;
+    padding: 100px 0;
 }
 
 .sub-descriptor {
@@ -72,6 +72,7 @@ nav {
     border-radius: 10px;
     border: none;
     margin-top: 20px;
+    font-size: 15px;
 }
 
 button:hover {
