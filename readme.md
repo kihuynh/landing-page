@@ -1,4 +1,4 @@
-##Landing Page Project
+## Landing Page Project
 
 **Started:** 6/25/2022
 **Completed:** 7/6/2022
@@ -20,7 +20,7 @@ Loosely based off of their example.
 <hr>
 
 ### Partial View of Example
-<img src="images/landingpage-example.png" height="65%" />
+<img src="images/Landingpage-example.png" height="500%" width="50%" />
 
 ### Partial View of Completed Project
-<img src="images/landingpage-completed.png"  height="70%" />
+<img src="images/landingpage-completed.png"  height="50%" width="50%" />
