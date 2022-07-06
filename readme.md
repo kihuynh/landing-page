@@ -1,5 +1,7 @@
 ## Landing Page Project
 
+[Link to Completed Project](https://kihuynh.github.io/landing-page/)
+
 **Started:** 6/25/2022
 **Completed:** 7/6/2022
 
